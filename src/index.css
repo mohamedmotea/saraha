@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;500;600;700;800;900;1000&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+:root{
+  --brown:#2d2f31;
+  --halfLight:#a1a1a2;
+  --subColor:#f1786c;
+  --buleColor:#1d628b;
+}
+html {
+  margin-top: 75px ;
+}
+body{
+  /* font-family: 'Roboto', sans-serif; */
+  font-family: 'Cairo', sans-serif;
+  direction: rtl;
+}
+section {
+  min-height: 100vh;
+}
+a{
+  text-decoration: none;
+  color:inherit
+}
+p{
+  margin: 0;
+}

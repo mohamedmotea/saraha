@@ -1,0 +1,10 @@
+footer {
+  background-color: var(--brown);
+  color:#fff
+}
+footer ul a {
+  border: 1px solid #eee;
+  padding: 5px 10px;
+  background-color: #fff;
+  color:#000000ca
+}

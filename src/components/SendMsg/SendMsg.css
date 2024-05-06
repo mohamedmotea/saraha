@@ -1,0 +1,22 @@
+textarea {
+  min-height: 150px !important;
+  max-height: 400px;
+  background-color: #eee !important;
+}
+textarea::placeholder{
+  font-size: 14px;
+}
+#sendMsg {
+  background-color: #3c5c96;
+}
+#sendMsg .profileMsg{
+  background-color: var(--brown);
+  color:#fff
+
+}
+#sendMsg form {
+  background-color: #fff;
+}
+#sendMsg form h5 {
+background-color: var(--subColor);
+}

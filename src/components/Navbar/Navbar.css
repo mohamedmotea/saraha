@@ -1,0 +1,21 @@
+nav {
+  background-color: var(--brown);
+}
+nav a {
+  color: var(--halfLight) !important;
+  font-weight: 600 !important;
+  transition: color .3s !important;
+}
+.navbar-toggler {
+  box-shadow: none !important;
+}
+
+nav a:hover {
+  color: #fff !important;
+
+}
+@media screen and (min-width:567px) and (max-width:768px) {
+  nav {
+    font-size: 12px ;
+  }
+}

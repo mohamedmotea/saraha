@@ -1,0 +1,12 @@
+#profile {
+background-color: #3c5c96;
+color:#fff;
+}
+
+#profile form {
+  color:#000;
+  background-color: #fff
+} 
+#profile .profileInfo{
+  background-color: var(--brown);
+}

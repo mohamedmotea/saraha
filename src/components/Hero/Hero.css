@@ -1,0 +1,13 @@
+
+#hero {
+  background-image: url("../../assets/background.avif") ;
+  height: calc(100vh - 80px);
+  background-position: center;
+  background-size: cover;
+}
+#hero button:first-child{
+  background-color: var(--buleColor);
+}
+#hero button:last-child{
+  background-color: var(--subColor);
+}
