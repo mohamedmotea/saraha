@@ -11,7 +11,7 @@ import ProtectenRoute from './components/ProtectenRoute/ProtectenRoute';
 import Messages from './components/Messages/Messages';
 import ProfilePass from './components/Profile/ProfilePass';
 import SendMsg from './components/SendMsg/SendMsg';
-import ProfilePic from './components/Profile/profilePic';
+import ProfilePic from './components/Profile/ProfilePic';
 import { HelmetProvider } from 'react-helmet-async';
 import Contact from './components/Contact/Contact';
 import Notfound from './components/Notfound/Notfound';
