@@ -8,7 +8,7 @@ import ProfileForm from './ProfileForm'
 import { MagnifyingGlass } from 'react-loader-spinner'
 import ProfilePass from './ProfilePass'
 import { Link } from 'react-router-dom'
-import ProfilePic from './profilePic'
+import ProfilePic from './ProfilePic'
 
 
 export default function Profile() {
